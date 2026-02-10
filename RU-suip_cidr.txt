@@ -1,12 +1,12 @@
-tbank.ru
-vkontakte.ru
-m.vk.com
 dom.ru
 rt.ru
 tgc1.ru
 eirc.spb.ru
 sberbank.ru
 megafon.ru
+api.megafon.ru
+megafon-com.ru
+mfon.ru
 rbc.ru
 fontanka.ru
 superjob.ru
